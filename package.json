@@ -1,0 +1,16 @@
+{
+  "name": "tugas-pekan-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "indah",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "jsonschema": "^1.4.1",
+    "supertest": "^6.3.3"
+  }
+}
